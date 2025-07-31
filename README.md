@@ -126,3 +126,5 @@ df['anomaly'] = np.where(z\\\\\\\\\\\\\\\_scores > 2, 1, 0)
 * GEE (Google Earth Engine) for NDVI
 * MoAFW \& ICAR reports
 * State-specific agriculture departments
+## Data availability
+https://drive.google.com/drive/folders/1L6rfXshriaO7En04UUOmXswAVxROdeOf?usp=drive_link
