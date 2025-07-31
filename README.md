@@ -26,9 +26,9 @@ This case study assesses the climate resiliency of agricultural production in tw
 Climate\_Resilience\_Assessment/
 
 data/
-MH\_temperature.csv
-MH\_precipitation.csv
-MP\_temperature.csv
+MH\_temperature.csv,
+MH\_precipitation.csv,
+MP\_temperature.csv,
 MP\_precipitation.csv
 
 notebooks/
@@ -120,7 +120,7 @@ df['anomaly'] = np.where(z\\\\\\\\\\\\\\\_scores > 2, 1, 0)
 * **Expand training on digital tools** for early warning systems.
 * **Refine government subsidies** to target vulnerable regions based on resiliency indicators.
 
-## 📚 References
+## References
 
 * IMD (India Meteorological Department)
 * GEE (Google Earth Engine) for NDVI
